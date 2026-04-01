@@ -1,6 +1,9 @@
-# Distributed MLOps
+# Distributed ML Ops
 
-Scalable MLOps orchestration engine for managing distributed training jobs across Kubernetes clusters.
+Scalable infrastructure for machine learning workflows.
 
-## Architecture
-Built with Go for high concurrency and low latency.
+## Stack
+- Kubernetes
+- MLflow
+- Docker
+- Prometheus
